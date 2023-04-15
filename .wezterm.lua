@@ -4,10 +4,12 @@
 local wezterm = require("wezterm")
 
 local config = {
-    check_for_updates = false,
-    color_scheme = "Gruvbox Dark",
+    window_background_opacity = 0.7,
 
-    tab_bar_at_bottom = true,
+    check_for_updates = true,
+    color_scheme = "GruvboxDarkHard",
+
+    tab_bar_at_bottom = false,
     inactive_pane_hsb = {
         hue = 1.0,
         saturation = 1.0,
@@ -15,9 +17,9 @@ local config = {
     },
 
     font = wezterm.font("Delugia"),
-    font_size = 12.0,
+    font_size = 10.0,
 
-    default_prog = { 'powershell.exe', '-NoLogo' },
+    default_prog = { 'pwsh.exe', '-NoLogo' },
     launch_menu = {},
     leader = { key="b", mods="CTRL" },
 

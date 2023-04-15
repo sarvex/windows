@@ -19,9 +19,8 @@ Searches/
 Tracing/
 Videos/
 .virtualenvs/
-!Documents/WindowsPowershell
+
 !Documents/Powershell
-Documents/WindowsPowershell/Modules
 Documents/Powershell/Modules
 
 # others
