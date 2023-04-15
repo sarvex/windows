@@ -1,0 +1,394 @@
+{
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2023-04-14T21:58:51+05:30",
+            "Manifests": 1787
+        },
+        {
+            "Name": "games",
+            "Source": "https://github.com/Calinou/scoop-games",
+            "Updated": "2023-04-14T21:58:58+05:30",
+            "Manifests": 268
+        },
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java",
+            "Updated": "2023-04-14T06:39:38+05:30",
+            "Manifests": 254
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2023-04-14T21:58:07+05:30",
+            "Manifests": 1188
+        },
+        {
+            "Name": "nerd-fonts",
+            "Source": "https://github.com/matthewjberger/scoop-nerd-fonts",
+            "Updated": "2023-04-08T16:38:51+05:30",
+            "Manifests": 221
+        },
+        {
+            "Name": "nirsoft",
+            "Source": "https://github.com/kodybrown/scoop-nirsoft",
+            "Updated": "2022-06-21T21:30:55+05:30",
+            "Manifests": 271
+        },
+        {
+            "Name": "nonportable",
+            "Source": "https://github.com/ScoopInstaller/Nonportable",
+            "Updated": "2023-04-14T22:07:54+05:30",
+            "Manifests": 127
+        },
+        {
+            "Name": "php",
+            "Source": "https://github.com/ScoopInstaller/PHP",
+            "Updated": "2023-04-12T07:18:50+05:30",
+            "Manifests": 385
+        },
+        {
+            "Name": "sarvex",
+            "Source": "https://github.com/sarvex/scoop",
+            "Updated": "2023-04-15T01:41:29+05:30",
+            "Manifests": 627
+        },
+        {
+            "Name": "sysinternals",
+            "Source": "https://github.com/niheaven/scoop-sysinternals",
+            "Updated": "2023-04-13T07:12:50+05:30",
+            "Manifests": 75
+        },
+        {
+            "Name": "versions",
+            "Source": "https://github.com/ScoopInstaller/Versions",
+            "Updated": "2023-04-14T22:07:51+05:30",
+            "Manifests": 419
+        }
+    ],
+    "apps": [
+        {
+            "Version": "22.01",
+            "Name": "7zip",
+            "Updated": "2023-04-14T00:32:21.241616+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "1.36.0-1",
+            "Name": "aria2",
+            "Updated": "2023-04-14T00:29:03.3630252+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "0.5.1",
+            "Name": "autojump-rs",
+            "Updated": "2023-04-15T01:42:43.2961547+05:30",
+            "Source": "sarvex",
+            "Info": ""
+        },
+        {
+            "Version": "0.23.0",
+            "Name": "bat",
+            "Updated": "2023-04-15T00:05:58.102609+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "6.1.1",
+            "Name": "bazel",
+            "Updated": "2023-04-14T14:45:40.5093625+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "2023-01-10",
+            "Name": "cacert",
+            "Updated": "2023-04-14T00:32:34.9391057+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "2.3.3",
+            "Name": "CascadiaCode-NF",
+            "Updated": "2023-04-13T22:59:52.9003812+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "2.3.3",
+            "Name": "CascadiaCode-NF-Mono",
+            "Updated": "2023-04-13T23:00:10.4907053+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "4.8",
+            "Name": "ccache",
+            "Updated": "2023-04-14T00:31:30.1462003+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "3.26.3",
+            "Name": "cmake",
+            "Updated": "2023-04-14T00:32:13.0381336+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "8.0.1_6",
+            "Name": "curl",
+            "Updated": "2023-04-14T00:32:25.290817+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "3.11.2",
+            "Name": "dark",
+            "Updated": "2023-04-14T00:54:26.3894664+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "1.4.5",
+            "Name": "defold",
+            "Updated": "2023-04-14T00:28:24.7555689+05:30",
+            "Source": "sarvex",
+            "Info": ""
+        },
+        {
+            "Version": "0.15.1",
+            "Name": "delta",
+            "Updated": "2023-04-15T00:06:00.5095773+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "2111.01.2",
+            "Name": "Delugia-Nerd-Font-Complete",
+            "Updated": "2023-04-15T01:58:57.6363065+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "8.7.0",
+            "Name": "fd",
+            "Updated": "2023-04-14T13:40:29.4910759+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "6.0",
+            "Name": "ffmpeg",
+            "Updated": "2023-04-14T13:40:54.1002905+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "6.2",
+            "Name": "FiraCode",
+            "Updated": "2023-04-14T00:19:55.9889802+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "2.3.3",
+            "Name": "FiraCode-NF",
+            "Updated": "2023-04-14T00:19:59.897832+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "0.0.28",
+            "Name": "FiraCode-Script",
+            "Updated": "2023-04-14T00:20:07.006898+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "2.3.3",
+            "Name": "FiraMono-NF",
+            "Updated": "2023-04-14T00:20:10.8221518+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "0.39.0",
+            "Name": "fzf",
+            "Updated": "2023-04-14T13:39:46.5829539+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "2.0.6",
+            "Name": "gsudo",
+            "Updated": "2023-04-13T22:05:20.1292878+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "2.3.3",
+            "Name": "Hasklig-NF",
+            "Updated": "2023-04-14T00:18:48.7224835+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "2.3.3",
+            "Name": "Hermit-NF",
+            "Updated": "2023-04-14T00:18:16.8093184+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "1.8.5",
+            "Name": "julia",
+            "Updated": "2023-04-14T00:26:03.1091857+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "2.3.3",
+            "Name": "LiberationMono-NF",
+            "Updated": "2023-04-14T14:18:36.737327+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "11.4",
+            "Name": "love",
+            "Updated": "2023-04-14T12:19:37.2155383+05:30",
+            "Source": "extras",
+            "Info": ""
+        },
+        {
+            "Version": "5.4.2",
+            "Name": "lua",
+            "Updated": "2023-04-14T12:19:41.7031395+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "4.4.1",
+            "Name": "make",
+            "Updated": "2023-04-14T09:48:02.1516417+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "0.10.4",
+            "Name": "neovide",
+            "Updated": "2023-04-14T00:48:35.3746007+05:30",
+            "Source": "extras",
+            "Info": ""
+        },
+        {
+            "Version": "2023-04",
+            "Name": "odin-dev",
+            "Updated": "2023-04-14T12:15:30.74603+05:30",
+            "Source": "versions",
+            "Info": ""
+        },
+        {
+            "Version": "2.6.1",
+            "Name": "patch",
+            "Updated": "2023-04-14T00:32:29.9450557+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "2.5.16",
+            "Name": "psfzf",
+            "Updated": "2023-04-14T13:39:47.5575006+05:30",
+            "Source": "extras",
+            "Info": ""
+        },
+        {
+            "Version": "3.11.3",
+            "Name": "python",
+            "Updated": "2023-04-14T00:55:15.0373829+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "13.0.0",
+            "Name": "ripgrep",
+            "Updated": "2023-04-14T00:32:32.467996+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "1.25.2",
+            "Name": "rustup",
+            "Updated": "2023-04-14T00:22:54.0146786+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "1.3.1",
+            "Name": "scoop-search",
+            "Updated": "2023-04-13T22:09:57.4468706+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "0.1.20220804",
+            "Name": "scoop-search-multisource",
+            "Updated": "2023-04-13T22:04:17.5083453+05:30",
+            "Source": "https://raw.githubusercontent.com/plicit/scoop-search-multisource/master/scoop-search-multisource.json",
+            "Info": ""
+        },
+        {
+            "Version": "2.3.3",
+            "Name": "SourceCodePro-NF",
+            "Updated": "2023-04-14T10:31:16.0685162+05:30",
+            "Source": "nerd-fonts",
+            "Info": ""
+        },
+        {
+            "Version": "1.14.2",
+            "Name": "starship",
+            "Updated": "2023-04-15T02:03:18.5522358+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "0.20.8",
+            "Name": "tree-sitter",
+            "Updated": "2023-04-14T20:52:05.2910279+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "0.3.3",
+            "Name": "v",
+            "Updated": "2023-04-14T12:20:34.037777+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "1.21.3",
+            "Name": "wget",
+            "Updated": "2023-04-14T00:32:38.9735808+05:30",
+            "Source": "main",
+            "Info": ""
+        },
+        {
+            "Version": "0.4.0",
+            "Name": "wren",
+            "Updated": "2023-04-14T00:27:39.1216821+05:30",
+            "Source": "sarvex",
+            "Info": ""
+        },
+        {
+            "Version": "0.11.0-dev.2609",
+            "Name": "zig-dev",
+            "Updated": "2023-04-15T01:43:53.9595835+05:30",
+            "Source": "versions",
+            "Info": ""
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+--type-set=powershell=.ps1
+--ignore-dir=binaries
